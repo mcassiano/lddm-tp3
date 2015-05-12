@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shake it!</string>
+    <string name="txt_latitude">Latitude: %1$f</string>
+    <string name="txt_longitude">Longitude: %1$f</string>
+    <string name="txt_date">Capturado %1$s</string>
+    <string name="txt_shaken">Salvando balanço!</string>
+</resources>
